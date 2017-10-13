@@ -1,3 +1,3 @@
-# react-simple-o2o-demo
+# react-simple-todo-demo
 
-React 性能优化，详情参考[这里](./docs/README.md)
+a simple react todo-list demo
